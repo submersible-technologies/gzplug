@@ -1,3 +1,9 @@
+# What?
+
+This is an in-progress repo to add buttplug.io support to GZDoom. No idea how it's gonna go.
+
+# Original readme follows:
+
 # Welcome to GZDoom!
 
 [![Continuous Integration](https://github.com/ZDoom/gzdoom/actions/workflows/continuous_integration.yml/badge.svg)](https://github.com/ZDoom/gzdoom/actions/workflows/continuous_integration.yml)
